@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abakar Ibrahim</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 📫 How to reach me **abakarib7@gmail.com**
+
 
 
 <p align="left">
